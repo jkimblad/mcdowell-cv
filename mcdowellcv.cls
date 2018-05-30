@@ -23,7 +23,11 @@
 
 % Set up the fonts according to options
 \def\mainfontsize{11pt}
-\def\mainfontface{Times New Roman}
+\def\mainfontface{DejaVu Sans}
+
+%% Set up the fonts according to options
+%\def\mainfontsize{11pt}
+%\def\mainfontface{Times New Roman}
 
 \DeclareOption{calibri}{%
   \def\mainfontface{Calibri}
