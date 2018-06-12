@@ -22,8 +22,9 @@
 \ProvidesClass{mcdowellcv}[2017/06/18 v1.2.0 McDowell CV class]
 
 % Set up the fonts according to options
+% Linux alternative to Times New Roman
 \def\mainfontsize{11pt}
-\def\mainfontface{DejaVu Sans}
+\def\mainfontface{Tinos-Regular}
 
 %% Set up the fonts according to options
 %\def\mainfontsize{11pt}
